@@ -3,9 +3,12 @@ __pycache__/
 .pytest_cache/
 .venv/
 dist/
+temp_auto_push.bat
 build/
 *.egg-info/
 
 # Written by `assurance pin --save`; never this repo's own, and tests must not create it.
 .assurance/
 .mypy_cache/
+.gitignore
+branch_structure.json
